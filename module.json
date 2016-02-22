@@ -1,10 +1,10 @@
 {
   "name": "yotta-test",
   "version": "0.0.0",
-  "description": "",
+  "description": "A test module",
   "keywords": [],
-  "author": "",
-  "homepage": "",
+  "author": "cjacobs",
+  "homepage": "https://www.foo.com",
   "licenses": [
     {
       "url": "https://spdx.org/licenses/Apache-2.0",
