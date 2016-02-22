@@ -1,0 +1,15 @@
+{
+  "name": "yotta-test",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "homepage": "",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "dependencies": {}
+}
